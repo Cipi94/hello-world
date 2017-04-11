@@ -1,12 +1,14 @@
 1) quando attivo il bonus immediato di prender euna carta su un'altra colonna, ma è gia occupata, devo pagare comunque anche se non metto il famigliare?
+-  Sì. Pago il costo della carta e l'eventuale aggiunta di 3 monete se la torre è già occupata. Se è previsto il bonus con il dado 5 e 7 lo prendo.
 
+2) Devo per forza giocare tutte le pedine famigliare? anche quella neutra?
+-  Se non posso giocare quello bianco salto il turno, gli altri è sempre possibile giocarli.
 
-2) devo per forza giocare tutte le pedine famigliare? anche quella neutra?
 
 1)Durante il draft si possono vedere le carte degli altri?
 - No.
   Durante il draft si basa sula idea per cui ognuno ha delle informazioni parziali
-  Ogni giocatore scegli 4 carte e poi le passa agli altri così sai le tue carte e puoi avere una idea di quelle che hanno gli altri (vedi   quali mancano quando arrivano a te e vedi quelle che restano dopo che tu hai scelto le tue).
+  Ogni giocatore scegli 4 carte e poi le passa agli altri così sai le tue carte e puoi avere una idea di quelle che hanno gli altri (vedi quali mancano quando arrivano a te e vedi quelle che restano dopo che tu hai scelto le tue).
   
 2) I punti militari sono infiniti?
 -  No. Così come gli altri sono limitati
@@ -14,4 +16,9 @@
 3) Se perdo i prerequisiti perdo la carta giocata?
 -  No. L'importante è averle quando gioco la carta.
 
-4) 
+4) ConLorenzo il Magnifico posso duplicarmi anche le mie carte?
+-  Si.
+
+5) Alla fne le risorse si contano tutte?
+-  Si mettono tutte insieme e si contano complessive.
+
