@@ -2,7 +2,7 @@ package lorenzo;
 
 import java.util.ArrayList;
 import java.util.Random;
-
+// mirkolino patatos
 /**
  * Created by aewwc on 08/05/2017.
  */
