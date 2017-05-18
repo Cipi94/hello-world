@@ -72,6 +72,7 @@ public class Client {
             scanner.close();
             writer.close();
             socket.close();
+            //IMPORTANTE è NON CHIUDERE TASTIERA E VIDEO SENNò DOPO NON VA PIU NIENTE... provare per credere
         } catch (IOException e) {
             e.printStackTrace();
         }
