@@ -14,8 +14,8 @@ public class Client {
             // creo socket
             System.out.println("Apro socket");
             Socket socket = new Socket("localhost", 8080);
-            InputStream inputStream = socket.getInputStream();
-            OutputStream outputStream = socket.getOutputStream();
+            InputStream inputStream = socket.getInputStream(); //Per prendere ciò che mi arriva dal server
+            OutputStream outputStream = socket.getOutputStream(); //Prr mandare al server
             System.out.println("Socket aperto");
             // creao wrappers
             ObjectOutputStream writer = new ObjectOutputStream(outputStream);
@@ -24,8 +24,8 @@ public class Client {
             ObjectInputStream scanner = new ObjectInputStream(inputStream);
             System.out.println("obj input stream open");
             // creo wrappers tastiera e video
-            Scanner tastiera = new Scanner(System.in);
-            PrintWriter video = new PrintWriter(System.out);
+            Scanner tastiera = new Scanner(System.in); //Dico che l'input è la tastiera
+            PrintWriter video = new PrintWriter(System.out); //e che l'output è il monitor
             // logica
             boolean exit = false;
             while (!exit) {
